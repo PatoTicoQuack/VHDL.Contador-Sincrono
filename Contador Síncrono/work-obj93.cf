@@ -1,0 +1,13 @@
+v 4
+file . "FFJKNormal.vhdl" "f4d60141dd3be58b29717c3781cca4a9edf3a2af" "20230419143915.893":
+  entity ffjknormal at 1( 0) + 0 on 17;
+  architecture ff of ffjknormal at 13( 235) + 0 on 18;
+file . "Controlador.vhdl" "1698adb3fc9e3aeb89b8d6729d06827d2bd9ae51" "20230419143915.893":
+  entity controlador at 1( 0) + 0 on 15;
+  architecture controlar of controlador at 12( 246) + 0 on 16;
+file . "Contador.vhdl" "e56afbf8d87f0029cf1e4e0324000ef4ef0418b8" "20230419143915.892":
+  entity contador at 1( 0) + 0 on 13;
+  architecture contar of contador at 12( 214) + 0 on 14;
+file . "Contador_tb.vhdl" "0de52747f7cb4ed5b138f3d1a72ed26e3b067840" "20230419143915.892":
+  entity contador_tb at 1( 0) + 0 on 11;
+  architecture teste of contador_tb at 7( 79) + 0 on 12;

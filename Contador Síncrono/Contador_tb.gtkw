@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Wed Apr 19 14:41:06 2023
+[*]
+[dumpfile] "/home/matheus/Área de Trabalho/SD/Contador Síncrono/Contador_tb.ghw"
+[dumpfile_mtime] "Wed Apr 19 14:39:20 2023"
+[dumpfile_size] 2172
+[savefile] "/home/matheus/Área de Trabalho/SD/Contador Síncrono/Contador_tb.gtkw"
+[timestart] 0
+[size] 1920 1012
+[pos] -51 -51
+*-25.920073 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.contador_tb.
+[sst_width] 212
+[signals_width] 86
+[sst_expanded] 1
+[sst_vpaned_height] 292
+@28
+top.contador_tb.sclk
+top.contador_tb.sreset
+#{top.contador_tb.ss[2:0]} top.contador_tb.ss[2] top.contador_tb.ss[1] top.contador_tb.ss[0]
+[pattern_trace] 1
+[pattern_trace] 0
